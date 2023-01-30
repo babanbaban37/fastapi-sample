@@ -50,3 +50,4 @@ MySQL credentials are given by environment variables:
 
 # References
 - https://fastapi.tiangolo.com/tutorial/sql-databases
+# fastapi-sample
